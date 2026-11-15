@@ -1,5 +1,5 @@
 {
-  "default": {"status": "active", "expire": "2026-12-15"},
+  "default": {"status": "active", "expire": "2026-11-11"},
   "clients": {
     "A01": {"status": "active", "expire": "2026-11-11"},
     "A02": {"status": "active", "expire": "2027-01-15"}
